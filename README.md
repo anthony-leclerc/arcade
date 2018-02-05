@@ -75,5 +75,5 @@
   <br />
   <br />
 
-  <center><h5>Sylvain CHAUGNY - Anthony LECLERC - Hugo BALBAFFIN</h5></center>
+  <center><h5>Sylvain CHAUGNY - Anthony LECLERC - Hugo BALDASSIN</h5></center>
 </div>
