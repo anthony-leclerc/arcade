@@ -46,15 +46,11 @@
     This cell system is a grid pattern where a square is of a given size. The sprites and actions will occur between them, and will not affect the neighbor cells.
     <br />
     Moving responding to the cell logic can't display fluid animations. It reproduces the behavious os the old Arcade games.
-
     <br />
     <br />
-
     The ressource files such as images or spritesheets must be situated at the same place as the Arcade project executable.
-
     <br />
     <br />
-
     Every method must be created if you want to create your own dynamic library. Here are a few precisions :
     <ul>
       <li>Your context class must contain a IGraphic interface and a IEvents interface. It must have getters to interact with them.</li>
