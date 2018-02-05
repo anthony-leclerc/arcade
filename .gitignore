@@ -1,0 +1,15 @@
+*.[ao]
+*arcade*.so
+*~
+#*#
+arcade
+a.out
+
+# CMakes / CLion files
+.idea/*
+cmake-build-debug/*
+cmake-build-release/*
+
+# doxygen
+html/
+latex/
